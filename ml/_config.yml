@@ -1,0 +1,12 @@
+# Site settings
+title: Michael LeGrice
+email: legrice@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to the jungle
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.intrepidoer.com" # the base hostname & protocol for your site
+twitter_username: riceleg
+github_username:  riceleg
+
+# Build settings
+markdown: kramdown
